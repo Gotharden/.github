@@ -18,9 +18,7 @@ I'm self-taught/learning through Books, Internet (Youtube, social media) and alw
 ## 🛠️ Tech Stack
 
 **Languages I'm learning:**
-- C++
-- C
-- Python
+None, atleast for now
 
 **Tools I use:**
 - Git & GitHub
