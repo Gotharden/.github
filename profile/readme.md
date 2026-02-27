@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile.
 
-![idk][https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enNvZm9wN2FpYWY2Y3dkbDI5cGh0ZHEweTY3dTRjYWtyZzVianlnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f02AVk5KyjE2zmlHKA/giphy.gif]
+![Chess](https://media.giphy.com/media/f02AVk5KyjE2zmlHKA/giphy.gif)
 
 ##  What I'm Into
 
 - **Coding Languages**: C++, C, and Python
-- **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, thought i don't like making them public at most
+- **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, though i don't like making them public at most
 
 ##  My Learning Journey
 
@@ -17,16 +17,17 @@ I'm self-taught/learning through Books, Internet (Youtube, social media) and alw
 
 - I love anime, music, sports, chess and books
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages I'm learning:**
-None, atleast for now
+None for now.
 
 **Tools I use:**
 - Git & GitHub
 - VS Code
 
 ![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif)
+
 
 ---
 
