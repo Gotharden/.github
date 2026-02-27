@@ -1,6 +1,7 @@
 # Hey there! 
 
 Welcome to my GitHub profile.
+
 ![Celebration][https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enNvZm9wN2FpYWY2Y3dkbDI5cGh0ZHEweTY3dTRjYWtyZzVianlnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f02AVk5KyjE2zmlHKA/giphy.gif]
 
 ##  What I'm Into
