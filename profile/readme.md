@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 ![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif)
 
 
-"One can quickly create when they can quickly learn"
+I dont know what interesting in the profile, but why not?
 
 - **Coding Languages**: C++, C, and Python
 - **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, though i don't like making them public at most
