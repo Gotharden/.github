@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-[https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gi]
+![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif)
 
 
 "One can quickly create when they can quickly learn"
