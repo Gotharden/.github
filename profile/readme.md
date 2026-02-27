@@ -1,7 +1,10 @@
 # Hey there! 
 
 Welcome to my GitHub profile.
+
 ![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gi
+
+
 "One can quickly create when they can quickly learn"
 
 - **Coding Languages**: C++, C, and Python
