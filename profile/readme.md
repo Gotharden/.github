@@ -1,35 +1,21 @@
 # Hey there! 
 
 Welcome to my GitHub profile.
-
-![Chess](https://media.giphy.com/media/f02AVk5KyjE2zmlHKA/giphy.gif)
-
-##  What I'm Into
+![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gi
+"One can quickly create when they can quickly learn"
 
 - **Coding Languages**: C++, C, and Python
 - **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, though i don't like making them public at most
 - **Life**: Learn new things, even if not related to tech. Do Calisthenics and more...
-
-##  My Learning Journey
-
-I'm self-taught/learning through Books, Internet (Youtube, social media) and always excited to pick up new skills.
-
-##  Fun Facts
-
-- I love anime, music, sports, chess and books
-
-##  Tech Stack
-
 **Languages I'm learning:**
 None for now.
-
 **Tools I use:**
 - Git & GitHub
 - VS Code
 
-![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif)
 
 
----
 
-✨ _Thanks for visiting my profile! Feel free to check out my projects and don't hesitate to reach out if you have questions or ideas!_
+
+
+
