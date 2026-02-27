@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Developer passionate about coding and learni
 ##  What I'm Into
 
 - **Coding Languages**: C++, C, and Python
-- **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people
+- **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, though most of the time i don't like making them public.
 
 ##  My Learning Journey
 
