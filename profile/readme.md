@@ -1,3 +1,4 @@
+<img align="right" src="https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif" width="200" />
 # Gotharden
 
 Welcome to my GitHub profile.
@@ -6,9 +7,6 @@ trying to understand how power is structured and how societies organize themselv
 
 > “Man is by nature a political animal.”
 — Aristotle
-<p align="right">
-  <img src="https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif" />
-</p>
 
 
 
