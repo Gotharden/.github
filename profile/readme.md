@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif" />
+</p>
 # Gotharden
 
 Welcome to my GitHub profile.
