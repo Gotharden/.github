@@ -1,10 +1,9 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif" />
-</p>
 # Gotharden
 
 Welcome to my GitHub profile.
-
+<p align="right">
+  <img src="https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif" />
+</p>
 
  I make stuff, maybe public, or private. Who knows?
  
