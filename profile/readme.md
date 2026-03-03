@@ -1,24 +1,13 @@
-# Hey there! 
+# Gotharden
 
 Welcome to my GitHub profile.
 
 ![Celebration](https://media.giphy.com/media/RJtbWd3TbUSJKAB17k/giphy.gif)
+ I make stuff, maybe public, or private. Who knows?
+ trying to understand how power is structured and how societies organize themselves.
 
-
-I dont know what interesting in the profile, but why not?
-
-- **Coding Languages**: C, and Python
-
-- **Projects**: I love building Softwares that simulate things in the real world, track news all around the world and make things easier for people, though i don't like making them public at most
-
-- **Life**: Learn new things, even if not related to tech. Do Calisthenics and more...
-
-**Languages I'm learning:**
-None for now.
-
-**Tools I use:**
-- Git & GitHub
-- VS Code
+# > “Man is by nature a political animal.”
+— Aristotle
 
 
 
